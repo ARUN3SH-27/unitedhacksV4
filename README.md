@@ -1,5 +1,5 @@
 # unitedhacksV4
-```markdown
+markdown
 # LiteGame - Game Hub
 
 LiteGame is a Python-based game hub that combines several classic games in one place, built using the Tkinter library for a simple and engaging user experience. The goal is to offer a lightweight, accessible platform for users to enjoy classic games without the need for installation or heavy software.
@@ -31,19 +31,19 @@ LiteGame was developed using Python and Tkinter. The project is structured aroun
 
 ## How to Run the Project
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/your-username/LiteGame.git
    ```
 
 2. Install Python (version 3.x or higher) if not already installed.
 
 3. Install Tkinter if you don't have it:
-   ```bash
+   bash
    pip install tk
    ```
 
 4. Run the game hub:
-   ```bash
+   bash
    python litegame.py
    ```
 
