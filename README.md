@@ -1,6 +1,4 @@
 # unitedhacksV4
-Here's a GitHub README template for your project "LiteGame":
-
 ```markdown
 # LiteGame - Game Hub
 
